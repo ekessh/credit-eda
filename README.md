@@ -30,11 +30,11 @@ The analysis identifies several key factors that drive loan default risk:
 
 The project also explores various patterns through bivariate analysis, providing insights into how different factors interact and influence default risks. Key patterns include:
 
-*      Income Total by External Score
-*      Income Total by Income Type
-*      Income Total by Education Type
-*      Income Total by Occupation Type
-*      Income Total by Age Group
+*   Income Total by External Score
+*   Income Total by Income Type
+*   Income Total by Education Type
+*   Income Total by Occupation Type
+*   Income Total by Age Group
 *   Credit Amount by External Score
 *   Credit Amount by Income Type
 *   Credit Amount by Education Type
