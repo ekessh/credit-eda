@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is part of a PG program and focuses on applying Exploratory Data Analysis (EDA) in a real-world business scenario. It aims to provide a practical understanding of risk analytics within the banking and financial services industry. Participants will learn how data can be effectively utilized to minimize lending risks.
+This project is part of a PG program and focuses on applying Exploratory Data Analysis (EDA) in a real-world business scenario. It aims to provide a practical understanding of risk analytics within the banking and financial services industry. I learned how data can be effectively utilized to minimize lending risks.
 
 ## Objectives
 
